@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "854188567459",
+    "project_id": "flutterlenz",
+    "storage_bucket": "flutterlenz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854188567459:android:73b77973293939838c4816",
+        "android_client_info": {
+          "package_name": "com.technolenz.wispai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854188567459-0o9cvip3vojhf9daqnmk5bmiqfjo704p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGIWS1lE16dQHCRGqc36RkgweltgmeOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854188567459-0o9cvip3vojhf9daqnmk5bmiqfjo704p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854188567459-3o5gskuq1caq69927jeuu84804le8pn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterlenz.wispai.wispAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
